@@ -1,17 +1,7 @@
-# shop
+A Basic SHOP App, which allows user to place orders from the products available, user can add products to the shop too !!.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Shop_App" 
+  * Every shop item has a Detail page also, where user can see item image, price and a short description about that item.
+  * User can mark the products favourite, can add them to a cart for placing an order later.
+  * Not only user can add product to the shop, user can also edit,delete the product.
+  * User can also see order history.
+  
